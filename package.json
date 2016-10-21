@@ -1,6 +1,6 @@
 {
   "name": "winston-printit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A winston transport layer based on printit",
   "main": "index.js",
   "repository": {
