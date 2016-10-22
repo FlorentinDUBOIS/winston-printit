@@ -1,11 +1,11 @@
 {
   "name": "winston-printit",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A winston transport layer based on printit",
   "main": "dist/index.js",
   "scripts": {
     "test": "gulp test",
-    "babel": "gulp babel",
+    "build": "gulp babel",
     "dev": "gulp watch"
   },
   "repository": {
